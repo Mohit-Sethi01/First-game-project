@@ -2,8 +2,16 @@
 *First Game Project     using Godot game engine .*
 
 game-type:  2D-platformer  , Run & dodge Obstacles .
-Project started:  8-april-2025  
-Project finished:  on-going
+Project started :  8-april-2025  
+Project finished:  9-april-2025
+
+LOST MY PROJECT ON MY LOCAL SYSTEM ( FOR SOME UNKWON REASON)  , BUT HEYY I ALREADY EXPORTED THE GAME FOR THE LIXNUS AND WINDOWS  ^_^
+
+
+HOW CAN YOU PLAY??? :
+          --> JUST DOWNLOAD THE ZIPPED FOLDER  
+          --> UNZIP IT  or  EXTRACT ALL
+          --> there you have it one single file in the folder that is the GAME FILE
 
 Resource used:  Brackeys YT  tutorial  
 
